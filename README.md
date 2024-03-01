@@ -1,6 +1,7 @@
 ## Hi, I'm Daniel 👋
 I hold a M.Sc. in Mathematical Engineering from Politecnico di Milano 🇮🇹.
-I'm currently working in the AI field.
+\\
+I'm currently exploring and working on 3D scene reconstruction for autonomous driving in Stuttgart 🇩🇪.
 
 ### 🌟 My Interests
 - 🤖 Machine Learning
