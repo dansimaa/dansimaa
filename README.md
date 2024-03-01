@@ -1,4 +1,4 @@
-### Hi, I'm Daniel 👋
+## Hi, I'm Daniel 👋
 I hold a M.Sc. in Mathematical Engineering from Politecnico di Milano 🇮🇹.
 I'm currently working in the AI field.
 
