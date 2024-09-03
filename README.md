@@ -3,14 +3,6 @@
 - 🎓 I hold a M.Sc. in Mathematical Engineering from Politecnico di Milano 🇮🇹.
 - 🔭 I'm currently working on computer vision and 3D scene reconstruction for autonomous driving in Stuttgart 🇩🇪.
 
-### 🌱 My Interests
-
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 📈 Quantitative Finance
-- 👁️ Computer Vision
-- 🚗 Autonomous Driving
-
 ### 🛠 Languages and Tools 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -43,6 +35,15 @@
 
 
 <!--
+
+### 🌱 My Interests
+
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 📈 Quantitative Finance
+- 👁️ Computer Vision
+- 🚗 Autonomous Driving
+
 ### 🔧 Main Projects
 
 - [**CVPR-USI**](https://github.com): Analyzing billiard table features using computer vision techniques
