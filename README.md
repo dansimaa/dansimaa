@@ -1,7 +1,5 @@
 ## Hi, I'm Daniel 👋
 
-- 🎓 I hold a M.Sc. in Mathematical Engineering from Politecnico di Milano 🇮🇹.
-- 🔭 I'm currently working on computer vision and 3D scene reconstruction for autonomous driving in Stuttgart 🇩🇪.
 
 ### 🛠 Languages and Tools 
 
@@ -35,6 +33,10 @@
 
 
 <!--
+
+
+- 🎓 I hold a M.Sc. in Mathematical Engineering from Politecnico di Milano 🇮🇹.
+- 🔭 I'm currently working on computer vision and 3D scene reconstruction for autonomous driving in Stuttgart 🇩🇪.
 
 ### 🌱 My Interests
 
