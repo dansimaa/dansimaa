@@ -1,8 +1,11 @@
 ## Hi, I'm Daniel 👋
 
-
-
-
+- 🔭 I’m currently working on Machine Learning research at Mercedes-Benz, where I focus on 3D computer vision for autonomous driving.
+- 🤖 I’m passionate about applying deep learning in areas like autonomous systems, computer vision, and quantitative finance.
+- 🌱 I’m currently learning about LLMs and agents.
+- 👯 I’m looking to collaborate on impactful projects in the deep learning space.
+- 🎓 I hold an M.Sc. in Applied Mathematics from the Polytechnic University of Milan.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dansimaa/)
 
 
 <!--
